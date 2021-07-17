@@ -1,0 +1,23 @@
+# Ficheirs CMake
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+
+# Fichiers Visual Studio générés par CMake
+*.vcxproj
+*.vcxproj.filters
+*.sln
+
+# Fichier GNU Make générés par CMake
+Makefile
+
+# Executables
+Disease_propagation
+Disease_propagation.exe
+
+# Fichier temporaire MacOS
+.DS_Store
+
+# Fichiers CLion
+.idea
+*.cbp
